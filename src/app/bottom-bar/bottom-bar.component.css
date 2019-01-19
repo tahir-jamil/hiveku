@@ -1,0 +1,25 @@
+
+
+.active {
+	color: #ffbf00;
+}
+
+.inactive {
+    color: #bdbdbd;
+}
+
+.p-10-0-8-0 {
+    padding: 10dp 0dp 8dp 0dp;
+}
+
+.f-26 {
+    font-size: 26;
+}
+
+.f-12 {
+    font-size: 12;
+}
+
+.bottom-bar-bg {
+    background-color: #d8d8d8
+}
